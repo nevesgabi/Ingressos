@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ingressos</string>
+    <string name="txtTitulo"> Compre aqui seu ingresso!</string>
+    <string name="txtNome"> Nome do cliente:</string>
+    <string name="nome"> Digite seu nome </string>
+    <string name="txtRg"> RG do cliente:</string>
+    <string name="rg"> Digite seu RG</string>
+    <string name="txtDatanasc"> Data de nascimento: </string>
+    <string name="data"> Digite a data </string>
+    <string name="txtPag"> Selecione uma forma de pagamento: </string>
+    <string name="radioPag1"> Dinheiro </string>
+    <string name="radioPag2"> Cartão de crédito </string>
+    <string name="radioPag3"> Cartão de débito </string>
+    <string name="acompanhamento"> Selecione para um ingresso com acompanhamento (pipoca, refrigerante...)</string>
+    <string name="compra"> Comprar </string>
+</resources>
